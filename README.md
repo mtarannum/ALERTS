@@ -1,7 +1,7 @@
 # ALERTS
 
 This python alert program alerts a json log file with ticker data if ticker price deviated more than the input value.
-
+•	Price Deviation - Generate an alert if the current price is more than one standard deviation from the 24hr average
 
 **How to call the program**
 $ python alerts.py -h                                                
